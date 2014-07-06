@@ -1,21 +1,9 @@
-# bower-angular-i18n
-
-This repo is for distribution on `bower`. The source for this module is in the
-[main AngularJS repo](https://github.com/angular/angular.js).
-Please file issues and pull requests against that repo.
-
 ## Install
 
 Install with `bower`:
 
 ```shell
-bower install angular-i18n
-```
-
-Add a `<script>` to your `index.html`:
-
-```html
-<script src="/bower_components/angular-i18n/angular-locale_YOUR-LOCALE.js"></script>
+bower install angular-locale-ru
 ```
 
 ## Documentation
